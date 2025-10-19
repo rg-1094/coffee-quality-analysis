@@ -4,7 +4,6 @@ A comprehensive data mining project analyzing coffee quality datasets to uncover
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Project Overview
 
